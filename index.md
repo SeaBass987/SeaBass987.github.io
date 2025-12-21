@@ -272,26 +272,10 @@
         </div>
         
         <div class="project">
-            <h3>Hack The Box</h3>
-            <p><strong>Rank:</strong> [Hacker / Pro Hacker / Elite] | <strong>Machines:</strong> [Number]</p>
-            <p><strong>Notable Machines:</strong> [Machine names you've rooted]</p>
-            <div class="badges">
-                <span class="badge">Active Player</span>
-                <span class="badge">Pro Lab Access</span>
-                <span class="badge">Challenge Solver</span>
-            </div>
+            <h3>Hellbound Hacker</h3>
+            <p><strong>Completed Challenges:</strong> Prerequisite Challenges | Prerequisite Challenges</p>
         </div>
         
-        <div class="project">
-            <h3>Coursera Specializations</h3>
-            <p><strong>Google Cybersecurity Professional Certificate</strong> | Completed: [Date]</p>
-            <p><strong>Other Courses:</strong> [Course names and providers]</p>
-            <div class="tech-stack">
-                <span class="tech-tag">SIEM Tools</span>
-                <span class="tech-tag">Python for Security</span>
-                <span class="tech-tag">Incident Response</span>
-            </div>
-        </div>
     </section>
     
     <!-- Personal Projects -->
@@ -300,12 +284,15 @@
         
         <div class="project">
             <h3>Home Security Lab</h3>
-            <p>Built a virtualized environment with pfSense, Windows AD, and vulnerable VMs for penetration testing practice.</p>
+            <p>Built a virtualized Linux environment with an assortment of tools for penetration testing and SOC operations.</p>
             <div class="tech-stack">
-                <span class="tech-tag">VMware/Proxmox</span>
-                <span class="tech-tag">pfSense</span>
-                <span class="tech-tag">Active Directory</span>
+                <span class="tech-tag">Oracle Virtualbox</span>
+                <span class="tech-tag">Burpsuite</span>
+                <span class="tech-tag">Nmap</span>
                 <span class="tech-tag">Metasploit</span>
+                <span class="tech-tag">Wireshark</span>
+                <span class="tech-tag">Snort</span>
+                <span class="tech-tag">Splunk</span>
             </div>
         </div>
         
