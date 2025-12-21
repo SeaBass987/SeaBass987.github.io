@@ -218,7 +218,7 @@
     <!-- Header -->
     <header class="matrix-header">
         <h1 class="glitch">[Grant Ryan]</h1>
-        <p class="subtitle">Aspiring Cybersecurity Professional | Specializing in Cloud Security Engineering</p>
+        <p class="subtitle">Aspiring Cybersecurity Professional | Cloud Security Engineer</p>
         <p>>_ A 4.0 graduate with a Bachelors of Science in Cybersecurity from Bellevue University, Nebraska (August, 2025). Looking to begin my career and advance into a security engineer position with a focus on cloud security engineering and machine learning integration.</p>
     </header>
     
@@ -227,9 +227,9 @@
         <h2><i class="fas fa-graduation-cap"></i> Education</h2>
         <div class="card">
             <h3>Bachelor of Science in Cybersecurity</h3>
-            <p class="date">[University Name] | [Graduation Year]</p>
+            <p class="date">[Bellevue University] | [2025] | [4.0 GPA]</p>
             <p><strong>Relevant Coursework:</strong> Network Security, Ethical Hacking, Cryptography, Digital Forensics, Risk Management</p>
-            <p><strong>Thesis/Final Project:</strong> [Brief description of your capstone project]</p>
+            
         </div>
     </section>
     
