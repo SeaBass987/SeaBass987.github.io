@@ -219,7 +219,7 @@
     <header class="matrix-header">
         <h1 class="glitch">[Grant Ryan]</h1>
         <p class="subtitle">Aspiring Cybersecurity Professional | Cloud Security Engineer</p>
-        <p>>_ A 4.0 graduate with a Bachelors of Science in Cybersecurity from Bellevue University, Nebraska (August, 2025). Looking to begin my career and advance into a security engineer position with a focus on cloud security engineering and machine learning integration.</p>
+        <p>>_ A 4.0 graduate looking to begin my Cybersecurity career and advance into a security engineer position with a focus on cloud security engineering and machine learning integration.</p>
     </header>
     
     <!-- Education -->
