@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Your Name] | Cybersecurity Portfolio</title>
+    <title>[Grant Ryan] | Cybersecurity Portfolio</title>
     <style>
         /* HACKER MATRIX THEME STYLES */
         :root {
@@ -217,9 +217,9 @@
     
     <!-- Header -->
     <header class="matrix-header">
-        <h1 class="glitch">[YOUR NAME HERE]</h1>
-        <p class="subtitle">Cybersecurity Professional | Analyst | Penetration Tester</p>
-        <p>>_ Protecting digital infrastructure through offensive and defensive security</p>
+        <h1 class="glitch">[Grant Ryan]</h1>
+        <p class="subtitle">Aspiring Cybersecurity Professional | Specializing in Cloud Security Engineering</p>
+        <p>>_ A 4.0 graduate with a Bachelors of Science in Cybersecurity from Bellevue University, Nebraska (August, 2025). Looking to begin my career and advance into a security engineer position with a focus on cloud security engineering and machine learning integration.</p>
     </header>
     
     <!-- Education -->
