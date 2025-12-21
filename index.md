@@ -228,7 +228,7 @@
         <div class="card">
             <h3>Bachelor of Science in Cybersecurity</h3>
             <p class="date">[Bellevue University] | [2025] | [4.0 GPA]</p>
-            <p><strong>Relevant Coursework:</strong> Network Security, Ethical Hacking, Cryptography, Digital Forensics, Risk Management</p>
+            <p><strong>Relevant Coursework:</strong> Network Security, Ethical Hacking, Cryptography, Digital Forensics, Risk Management, Database Management, Python Coding</p>
             
         </div>
     </section>
@@ -238,14 +238,14 @@
         <h2><i class="fas fa-certificate"></i> Certifications</h2>
         <div class="card-grid">
             <div class="card">
-                <h3>CompTIA Security+</h3>
-                <p class="date">Issued: [Date] | Expires: [Date]</p>
+                <h3>Google Cybersecurity Professional Certificate</h3>
+                <p class="date">Issued: [September, 2025] </p>
                 <p>Validates baseline security skills and knowledge</p>
             </div>
             <div class="card">
-                <h3>TryHackMe Complete Beginner</h3>
-                <p class="date">Completed: [Date]</p>
-                <p>Completed all beginner learning paths</p>
+                <h3>TryHackMe Cyber Security 101</h3>
+                <p class="date">Completed: [December, 2025]</p>
+                <p>Learned everything needed to embark on a cyber security career path</p>
             </div>
             <div class="card">
                 <h3>[Other Certification]</h3>
@@ -261,12 +261,13 @@
         
         <div class="project">
             <h3>TryHackMe</h3>
-            <p><strong>Rank:</strong> [Your Rank] | <strong>Rooms Completed:</strong> [Number]</p>
-            <p><strong>Learning Paths:</strong> Complete Beginner, Jr. Penetration Tester, Cyber Defense</p>
+            <p><strong>Rank:</strong> [Mage] | <strong>Rooms Completed:</strong> [85]</p>
+            <p><strong>Learning Paths:</strong> Pre Security, Cyber Security 101, Security Engineer </p>
+            <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3481474" style='border:none;'></iframe>
             <div class="badges">
-                <span class="badge">Top 10%</span>
-                <span class="badge">50+ Rooms</span>
-                <span class="badge">Offensive Security</span>
+                <span class="badge">Top 6%</span>
+                <span class="badge">100+ Rooms</span>
+                <span class="badge">Network Security</span>
             </div>
         </div>
         
