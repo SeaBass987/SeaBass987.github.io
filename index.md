@@ -248,7 +248,7 @@
                 <p>Learned everything needed to embark on a cyber security career path</p>
             </div>
             <div class="card">
-                <h3>[Other Certification]</h3>
+                <h3>[Other Certification, To Be Updated]</h3>
                 <p class="date">Issued: [Date]</p>
                 <p>[Brief description]</p>
             </div>
@@ -261,11 +261,11 @@
         
         <div class="project">
             <h3>TryHackMe</h3>
-            <p><strong>Rank:</strong> [Mage] | <strong>Rooms Completed:</strong> [85]</p>
-            <p><strong>Learning Paths:</strong> Pre Security, Cyber Security 101, Security Engineer </p>
+            <p><strong>Rank:</strong> [Master] | <strong>Rooms Completed:</strong> [150]</p>
+            <p><strong>Learning Paths:</strong> Pre Security, Cyber Security 101, Security Engineer, DevSecOps, Jr. Penetration Tester, Web Fundamentals </p>
             <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3481474" style='border:none;'></iframe>
             <div class="badges">
-                <span class="badge">Top 6%</span>
+                <span class="badge">Top 3%</span>
                 <span class="badge">100+ Rooms</span>
                 <span class="badge">Network Security</span>
             </div>
@@ -304,17 +304,6 @@
                 <span class="tech-tag">Nmap</span>
                 <span class="tech-tag">Multithreading</span>
                 <span class="tech-tag">Report Generation</span>
-            </div>
-        </div>
-        
-        <div class="project">
-            <h3>SIEM Dashboard with ELK Stack</h3>
-            <p>Configured Elasticsearch, Logstash, and Kibana to collect and visualize security events from multiple sources.</p>
-            <div class="tech-stack">
-                <span class="tech-tag">ELK Stack</span>
-                <span class="tech-tag">Log Analysis</span>
-                <span class="tech-tag">Dashboards</span>
-                <span class="tech-tag">Alerting</span>
             </div>
         </div>
     </section>
