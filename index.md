@@ -361,10 +361,10 @@
         <h2><i class="fas fa-envelope"></i> Contact & Links</h2>
         <p style="text-align: center; margin: 20px 0;">Available for security roles, internships, and collaboration</p>
         <div class="contact-links">
-            <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i> Email</a>
-            <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i> GitHub</a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-            <a href="https://tryhackme.com/p/yourprofile" target="_blank"><i class="fas fa-terminal"></i> TryHackMe</a>
+            <a href="mailto:glryan@sktc.net"><i class="fas fa-envelope"></i> Email</a>
+            <a href="" target="https://github.com/SeaBass987/SeaBass987.github.io"><i class="fab fa-github"></i> GitHub</a>
+            <a href="https://www.linkedin.com/in/grant-ryan-455428350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAd0rXijVQ%2BCL6WVITxZBfw%3D%3D" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+            <a href="https://tryhackme.com/p/CaptSeaBass" target="_blank"><i class="fas fa-terminal"></i> TryHackMe</a>
         </div>
     </section>
     
